@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123Vendas.Dashboard.AppHost", "src\123Vendas.dashboard\123Vendas.dashboard.AppHost\123Vendas.Dashboard.AppHost.csproj", "{F8FA48F6-6B66-4C7B-8941-5EE2E673C83A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123Vendas.Dashboard.ServiceDefaults", "src\123Vendas.dashboard\123Vendas.dashboard.ServiceDefaults\123Vendas.Dashboard.ServiceDefaults.csproj", "{38562F2A-C79F-4D7C-BBA5-A68D5E6C192D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FA48F6-6B66-4C7B-8941-5EE2E673C83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FA48F6-6B66-4C7B-8941-5EE2E673C83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FA48F6-6B66-4C7B-8941-5EE2E673C83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FA48F6-6B66-4C7B-8941-5EE2E673C83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38562F2A-C79F-4D7C-BBA5-A68D5E6C192D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38562F2A-C79F-4D7C-BBA5-A68D5E6C192D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38562F2A-C79F-4D7C-BBA5-A68D5E6C192D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38562F2A-C79F-4D7C-BBA5-A68D5E6C192D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBC9B66-E669-4257-A814-6BB0C6ADDE24}
+	EndGlobalSection
+EndGlobal
